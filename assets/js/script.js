@@ -25,7 +25,7 @@ continue_btn.onclick = ()=>{
     startTimer(15); //calling startTimer function
     startTimerLine(0); //calling startTimerLine function
 }
-let timeValue =  15;
+let timeValue = 10;
 let que_count = 0;
 let que_numb = 1;
 let userScore = 0;
@@ -38,7 +38,7 @@ const quit_quiz = result_box.querySelector(".buttons .quit");
 restart_quiz.onclick = ()=>{
     quiz_box.classList.add("activeQuiz"); //show quiz box
     result_box.classList.remove("activeResult"); //hide result box
-    timeValue = 15; 
+    timeValue = 10; 
     que_count = 0;
     que_numb = 1;
     userScore = 0;

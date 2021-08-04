@@ -26,7 +26,7 @@
 
   ## Description
 
-  10 questions in the field of Javascript to test your knowledge.
+ New and Improved quiz for javascript! 5 custom questions at 10 seconds a piece to have fun with! 
 
   ---
 
@@ -42,8 +42,8 @@
 
   ## GitHub
 
-  * [GitHub Repository Link: Javascript Quiz ](https://github.com/BMunoz87/javascript-quiz
-  * [GitHub Profile Link: Brian E Munoz](https://github.com/BMunoz87
+  * [GitHub Repository Link: Javascript Quiz ](https://github.com/BMunoz87/javascript-quiz)
+  * [GitHub Profile Link: Brian E Munoz](https://github.com/BMunoz87)
 
   ## CONTRIBUTION:
 
